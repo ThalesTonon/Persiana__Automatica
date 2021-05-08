@@ -1,33 +1,35 @@
-# Persiana Automática
+<img src="https://user-images.githubusercontent.com/7269314/78952616-93bfb700-7aac-11ea-8c5c-a9ff8fd4bf27.jpg"/>
 
-## 🚀 Começando
+<h1> Persiana Automática + App Inventor</h1> 
 
-Neste projeto é apresentado uma proposta de automação de persianas residenciais controlada por luminosidade. A maneira escolhida para essa automação foi o controle de um motor por meio de um microcontrolador, que recebe informação de um sensor de luminosidade. O protótipo tem a função de regular a angulação das lâminas de acordo com a intensidade da luz, após isso, a informação passa pelo microcontrolador que irá repassar os dados para o motor se adaptar com os comandos. Também foi implementado um modelo manual para que o usuário escolha a melhor opção de angulação para aquele determinado ambiente
+> Status do Projeto: Concluido ✔️
 
-Consulte **Implantação** para saber como implantar o projeto.
 
-### 📋 Pré-requisitos
+<h2>🚀 Começando </h2>
 
-De que coisas você precisa para executar o projeto?
+<p align="justify">Neste projeto é apresentado uma proposta de automação de persianas residenciais controlada por luminosidade. A maneira escolhida para essa automação foi o controle de um motor por meio de um microcontrolador, que recebe informação de um sensor de luminosidade. O protótipo tem a função de regular a angulação das lâminas de acordo com a intensidade da luz, após isso, a informação passa pelo microcontrolador que irá repassar os dados para o motor se adaptar com os comandos. Também foi implementado um modelo manual para que o usuário escolha a melhor opção de angulação para aquele determinado ambiente</p>
 
-=================
-<!--ts-->
-   * [Sobre](#Sobre)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
-<!--te-->
+<h2>📋 Pré-requisitos</h2>
 
-## ⚙️ Executando os testes
+<h3>De que coisas você precisa para executar o projeto?</h3>
+<p align="justify"> Componentes: Arduino, Módulo Bluetooth, Resistores, Sensor LDR, Motor de Passo, Driver Uln2003 e jumpers.
+</p><br>
 
-Explicar como executar os testes automatizados para este sistema.
+<h2>🛠 Tecnologias</h2>
+
+<p align="justify">As seguintes ferramentas foram usadas na construção do projeto:</p>
+
+<img src="https://www.arduino.cc/wiki/370832ed4114dd35d498f2f449b4781e/arduino.svg" width="50"/>
+• <a href="https://www.arduino.cc/en/software">IDE Arduino</a> <br>
+<img src="https://i.postimg.cc/x8XNX86J/download.png" width="50"/> 
+•<a href="#http://ai2.appinventor.mit.edu/#">App Inventor</a> <br>
+
+<h2>⚙️ Executando os testes</h2> 
+
+<h3>⚡Teste Sensor</h3>
+<p>Para este teste foram utilizados um Arduino, LDR, resistor de 1KΩ como demostrado na imagem abaixo:</p>
+<p align="center">
+<img src="https://i.postimg.cc/MG4DZn04/Circuito-Teste-Sensor.png" width="300"/></p>
 
 ### 🔩 Analise os testes de ponta a ponta
 
