@@ -28,8 +28,10 @@
 <h3>⚡Teste Sensor</h3>
 <p>Para este teste foram utilizados um Arduino, LDR, resistor de 1KΩ como demostrado na imagem abaixo:</p>
 <p align="center">
-<img src="https://i.postimg.cc/MG4DZn04/Circuito-Teste-Sensor.png" width="300"/></p>
-<p align="justify">As seguintes ferramentas foram usadas na construção do projeto:</p>
+<img src="https://raw.githubusercontent.com/ThalesTonon/Persiana_Automatica/master/Imagens/CircuitoTesteSensor.png" width="300"/></p>
+<p align="justify">Código utilizado: 
+<a href="https://github.com/ThalesTonon/Persiana_Automatica/blob/master/Testes/TesteSensor.ino">Teste Sensor</a> 
+</p>
 ### 🔩 Analise os testes de ponta a ponta
 
 Explique que eles verificam esses testes e porquê.
