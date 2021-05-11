@@ -21,7 +21,7 @@
 <img src="https://www.arduino.cc/wiki/370832ed4114dd35d498f2f449b4781e/arduino.svg" width="50"/>
 • <a href="https://www.arduino.cc/en/software">IDE Arduino</a> 
 <img src="https://i.postimg.cc/x8XNX86J/download.png" width="50"/> 
-• <a href="#http://ai2.appinventor.mit.edu/#">App Inventor</a>
+• <a href="http://ai2.appinventor.mit.edu/#">App Inventor</a>
 
 <h2>⚙️ Executando os testes</h2> 
 
@@ -31,6 +31,21 @@
 <img src="https://raw.githubusercontent.com/ThalesTonon/Persiana_Automatica/master/Imagens/CircuitoTesteSensor.png" width="300"/></p>
 <p align="justify">Código utilizado: 
 <a href="https://github.com/ThalesTonon/Persiana_Automatica/blob/master/Testes/TesteSensor.ino">Teste Sensor</a> 
+</p>
+<h3>⚙️Teste Motor de Passos</h3>
+<p>Para que o motor faça movimentos específicos será necessária uma programação, sendo assim temos o exemplo abaixo com o código teste juntamente com a imagem do esquemático:</p>
+<p align="center">
+<img src="https://github.com/ThalesTonon/Persiana_Automatica/blob/master/Imagens/CircuitoTesteMotor.png?raw=true" width="150"/></p>
+<p align="justify">Código utilizado: 
+<a href="https://github.com/ThalesTonon/Persiana_Automatica/blob/master/Testes/TesteMotor.ino">Teste Motor de Passos</a> 
+</p>
+<h3>⚡Teste Integração</h3>
+<p>Após analisar as etapas anteriores individualmente foi observado as características necessárias para que a integração seja feita de forma eficiente, por tanto a montagem da execução foi conectar as figuras em apenas um circuito.</p>
+<p align="center">
+<img src="https://github.com/ThalesTonon/Persiana_Automatica/blob/master/Imagens/CircuitoIntegracao.png?raw=true" width="150"/></p>
+<p align="justify">Código utilizado: 
+<a href="https://github.com/ThalesTonon/Persiana_Automatica/blob/master/Testes/Integracao.ino">Teste Integração
+</a> 
 </p>
 ### 🔩 Analise os testes de ponta a ponta
 
