@@ -77,7 +77,7 @@
 
 <h2> ✒️ Autores </h2>
 
-<p align="justify"><b>Thales Carretero Tonon</b>  - Idealidor e responsavél pelo projeto</p>
+<p align="justify"><b>Thales Carretero Tonon</b>  - Idealizador e responsavél pelo projeto</p>
 <p align="justify"><b>Jean</b> - Mentor</p>
 <p align="justify"><b>Thiago</b> - Mentor</p>
 
