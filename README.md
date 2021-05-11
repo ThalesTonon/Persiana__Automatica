@@ -19,9 +19,9 @@
 
 <p align="justify">As seguintes ferramentas foram usadas na construção do projeto:</p>
 <img src="https://www.arduino.cc/wiki/370832ed4114dd35d498f2f449b4781e/arduino.svg" width="50"/>
-• <a href="https://www.arduino.cc/en/software">IDE Arduino</a> <br>
+• <a href="https://www.arduino.cc/en/software">IDE Arduino</a> 
 <img src="https://i.postimg.cc/x8XNX86J/download.png" width="50"/> 
-• <a href="#http://ai2.appinventor.mit.edu/#">App Inventor</a> <br>
+• <a href="#http://ai2.appinventor.mit.edu/#">App Inventor</a>
 
 <h2>⚙️ Executando os testes</h2> 
 
