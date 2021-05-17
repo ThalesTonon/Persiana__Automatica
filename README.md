@@ -7,7 +7,7 @@
 
 <h2>🚀 Começando </h2>
 
-<p align="justify">Neste projeto é apresentado uma proposta de automação de persianas residenciais controlada por luminosidade. A maneira escolhida para essa automação foi o controle de um motor por meio de um microcontrolador, que recebe informação de um sensor de luminosidade. O protótipo tem a função de regular a angulação das lâminas de acordo com a intensidade da luz, após isso, a informação passa pelo microcontrolador que irá repassar os dados para o motor se adaptar com os comandos. Também foi implementado um modelo manual para que o usuário escolha a melhor opção de angulação para aquele determinado ambiente</p>
+<p align="justify">Neste projeto é apresentado uma proposta de automação de persianas residenciais controlada por luminosidade. A maneira escolhida para essa automação foi o controle de um motor por meio de um microcontrolador, que recebe informação de um sensor de luminosidade. O protótipo tem a função de regular a angulação das lâminas de acordo com a intensidade da luz, após isso, a informação passa pelo microcontrolador que irá repassar os dados para o motor se adaptar com os comandos. Também foi implementado um modelo manual para que o usuário escolha a melhor opção de angulação para aquele determinado ambiente.</p>
 
 <h2>📋 Pré-requisitos</h2>
 
@@ -77,7 +77,7 @@
 
 <h2> ✒️ Autores </h2>
 
-<p align="justify"><b>Thales Carretero Tonon</b>  - Idealidor e responsavél pelo projeto</p>
+<p align="justify"><b>Thales Carretero Tonon</b>  - Idealizador e responsavél pelo projeto</p>
 <p align="justify"><b>Jean</b> - Mentor</p>
 <p align="justify"><b>Thiago</b> - Mentor</p>
 
